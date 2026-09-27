@@ -135,4 +135,4 @@ Weekly Assessment 2 provided practice with important Pandas concepts that are co
 
 ---
 
-**Author:** Lakshmi Baj
+**Author:** Lakshmi Bai
